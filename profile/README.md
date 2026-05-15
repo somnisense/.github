@@ -44,12 +44,23 @@ Wyoming-registered LLC. The longer version of why this exists is on the marketin
 
 ---
 
+## Partnerships & Collaboration
+
+We're open to a wide range of collaboration:
+
+- **Research collaborations** — sleep medicine, mobile health, on-device ML, audio-based biomedical signal processing
+- **SDK / API integration** — consumer health platforms, wearable ecosystems, smart-home audio products
+- **Clinical partnerships** — sleep specialists, sleep clinics, healthcare providers, sleep-related medical-device companies
+- **Academic / industrial co-authorship** on the next round of preprints, particularly around cross-cohort validation and language / device generalization
+
+Reach out at `service@somnisense.top`.
+
+---
+
 ## Contact
 
-- Product / support: `service@somnisense.top`
-- Research correspondence: `service@somnisense.top`
-
-The app: **[somnisense.top](https://www.somnisense.top)**
+- General contact: `service@somnisense.top`
+- The app: **[somnisense.top](https://www.somnisense.top)**
 
 ---
 
