@@ -40,11 +40,9 @@ What we *don't* publish:
 
 ## About SomniAI LLC
 
-Wyoming-registered LLC. One engineer (with paid validation participants), no venture capital, no growth team. The business model is a $49.99 / year subscription after a free 7-day trial — not data, not ads.
+Wyoming-registered LLC. The business model is a $49.99 / year subscription after a free 7-day trial — not data, not ads.
 
-Founder & technical lead: **Yang L.** — 20+ years software engineering, 10+ years in engineering management.
-
-If you want the longer version of why this exists, the story is on the marketing site: [somnisense.top/story](https://www.somnisense.top/story).
+The longer version of why this exists is on the marketing site: [somnisense.top/story](https://www.somnisense.top/story).
 
 ---
 
