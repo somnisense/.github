@@ -40,9 +40,7 @@ What we *don't* publish:
 
 ## About SomniAI LLC
 
-Wyoming-registered LLC. The business model is a $49.99 / year subscription after a free 7-day trial — not data, not ads.
-
-The longer version of why this exists is on the marketing site: [somnisense.top/story](https://www.somnisense.top/story).
+Wyoming-registered LLC. The longer version of why this exists is on the marketing site: [somnisense.top/story](https://www.somnisense.top/story).
 
 ---
 
