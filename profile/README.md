@@ -1,13 +1,13 @@
 # SomniAI
 
-> **On-device sleep monitoring. Audio from your phone, on your nightstand, never leaves the device.**
+> **On-device sleep health from a phone microphone — no wearable, no upload, no account.**
 
-We make a sleep health app that listens to one night's audio and tells you when you snored, when your breathing paused, and what your sleep looked like — without uploading the recording to a server, without a wearable, without an account-to-use.
+SomniAI is an independent research and product LLC working on audio-based sleep monitoring that runs entirely on the device. The repositories here are the algorithm side of that work, openly published so what listens to you sleeping isn't a black box.
 
-The flagship product is **SomniSense**, shipping on **iOS and Android**.
-→ Download / read the story: **[somnisense.top](https://www.somnisense.top)**
+The current flagship product is **SomniSense**, an iOS / Android app that turns one night's audio into a private snore + breathing-pause report.
+→ [somnisense.top](https://www.somnisense.top)
 
-The repositories here are the research and code the app is built on. We publish the algorithm side openly so what you trust your sleep data to isn't a black box. Production deployment specifics and the audio pre-processing front-end are covered by pending US patents and not redistributed here.
+Production deployment specifics and the audio pre-processing front-end are covered by pending US patents and not redistributed here.
 
 ---
 
