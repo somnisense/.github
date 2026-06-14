@@ -19,7 +19,7 @@ Production deployment specifics and the audio pre-processing front-end are cover
 | [`ca1d-sleep-apnea`](https://github.com/somnisense/ca1d-sleep-apnea) | A 1D Coordinate-Attention architecture for audio-based sleep apnea detection — a 14,001-parameter network that hits 87% accuracy (a 93% parameter reduction over the standard baseline), with full architecture and training code. |
 | [`apnea-compression-pipeline`](https://github.com/somnisense/apnea-compression-pipeline) | An on-device compression pipeline: joint quantization-aware training + L1-structured pruning that takes the model down to 9,416 INT8 parameters and CoreML on the Apple Neural Engine at 0.064 ms / inference, without sacrificing accuracy. |
 
-All three accompanying preprints are forthcoming on arXiv (links live here once first uploaded). All code is MIT-licensed for research and reproducibility.
+All three accompanying preprints are published openly on Zenodo with citable DOIs (an arXiv mirror is planned); all code is MIT-licensed for research and reproducibility. The full research &amp; validation write-up — the numbers, the methodology, and how the engine is licensed — lives at **[apneasense.com/research](https://apneasense.com/research)**.
 
 ---
 
@@ -49,7 +49,7 @@ Wyoming-registered LLC. The longer version of why this exists is on the marketin
 We're open to a wide range of collaboration:
 
 - **Research collaborations** — sleep medicine, mobile health, on-device ML, audio-based biomedical signal processing
-- **SDK / API integration** — consumer health platforms, wearable ecosystems, smart-home audio products
+- **SDK / API integration** — consumer health platforms, wearable ecosystems, smart-home audio products → [apneasense.com](https://apneasense.com)
 - **Clinical partnerships** — sleep specialists, sleep clinics, healthcare providers, sleep-related medical-device companies
 - **Academic / industrial co-authorship** on the next round of preprints, particularly around cross-cohort validation and language / device generalization
 
@@ -60,7 +60,8 @@ Reach out at `service@somnisense.top`.
 ## Contact
 
 - General contact: `service@somnisense.top`
-- The app: **[somnisense.top](https://www.somnisense.top)**
+- The app (consumer): **[somnisense.top](https://www.somnisense.top)**
+- SDK licensing &amp; research (B2B): **[apneasense.com](https://apneasense.com)**
 
 ---
 
